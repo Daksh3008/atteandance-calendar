@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "781307962636",
+    "project_id": "attendance-calendar-a0c5e",
+    "storage_bucket": "attendance-calendar-a0c5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781307962636:android:a91c14feefc295d91fd529",
+        "android_client_info": {
+          "package_name": "in.sourceorigin.attendancecalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781307962636-1oqtjr6ca7utrkpe4avensf3fp6urq31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.sourceorigin.attendancecalendar",
+            "certificate_hash": "37858ea0a7d782cba5adee53757b112ec8a950f9"
+          }
+        },
+        {
+          "client_id": "781307962636-2lsg8bg807sdh7bn7h2ru6966qtkoodf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.sourceorigin.attendancecalendar",
+            "certificate_hash": "1fceb2fd7ebaf5de48b66d7a2003d25d4bdba145"
+          }
+        },
+        {
+          "client_id": "781307962636-ovpu7g462d10lrut4a1vmb3141gpfeo7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.sourceorigin.attendancecalendar",
+            "certificate_hash": "6c9180e93e574a19eb0791b93c989b7b32a7ef85"
+          }
+        },
+        {
+          "client_id": "781307962636-tdj0mcmrqaajq5gnfpmltvef1e9e26v5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.sourceorigin.attendancecalendar",
+            "certificate_hash": "de3c97e5490fd84b7a6cbf29f64167d04e7dd5ae"
+          }
+        },
+        {
+          "client_id": "781307962636-iqkvis8gug1qiemfg0qrqad95asq03tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ccVDckDmxbQKfvQbXhohfswbATfxOGg"
+        },
+        {
+          "current_key": "AIzaSyC73Rg39lAseQO0lZ94T1Pufew3yXHJ5_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781307962636-iqkvis8gug1qiemfg0qrqad95asq03tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9331946983176625~7446962177"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781307962636:android:6d801f6396a267b71fd529",
+        "android_client_info": {
+          "package_name": "in.sourceorigin.employee_attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781307962636-iqkvis8gug1qiemfg0qrqad95asq03tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ccVDckDmxbQKfvQbXhohfswbATfxOGg"
+        },
+        {
+          "current_key": "AIzaSyC73Rg39lAseQO0lZ94T1Pufew3yXHJ5_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781307962636-iqkvis8gug1qiemfg0qrqad95asq03tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
