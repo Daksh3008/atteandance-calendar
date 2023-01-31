@@ -1,5 +1,7 @@
 # attendance_calendar
 
+Intern project
+
 Easily track your daily attendance with this nastly build Attendance Register
 
 ## Getting Started
